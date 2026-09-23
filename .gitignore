@@ -1,0 +1,20 @@
+# Python
+backend/venv/
+**/__pycache__/
+*.pyc
+
+# Секреты и окружение
+.env
+backend/.env
+frontend/.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.vite-temp/
+
+# Прочее
+*.pdf
+.DS_Store
+Thumbs.db
