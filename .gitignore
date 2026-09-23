@@ -14,8 +14,7 @@ frontend/dist/
 frontend/.vite/
 frontend/.vite-temp/
 
-# Дампы БД (переносить вручную, не в git)
-/blog_db.sql
+# Дампы БД в кастомном формате (не в git); blog_db.sql — оставляем в git для переноса
 *.dump
 
 # Прочее
